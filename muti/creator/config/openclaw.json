@@ -1,0 +1,14 @@
+{
+    // Creator instance default Telegram group allowlist.
+    "channels": {
+        "telegram": {
+            "enabled": true,
+            "dmPolicy": "pairing",
+            "groups": {
+                "-1003897330654": {
+                    "requireMention": true
+                }
+            }
+        }
+    }
+}
